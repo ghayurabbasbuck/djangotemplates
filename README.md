@@ -1,0 +1,2 @@
+# djangotemplates
+practice of templates
